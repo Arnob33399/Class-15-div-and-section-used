@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.hero{
+    /* background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,16,0.5187324929971988) 35%, rgba(0,212,255,1) 100%); */
+    background-image: url(images/project1.jpg);
+    background-repeat: no-repeat;
+    height: 400px;
+    background-size: cover;
+    color: greenyellow;
+    background-position: center;
+}
+.project{
+    margin-top: 15px;
+    width: 100%;
+    overflow: hidden;
+}
+.project-work{
+    float: left;
+    height: 200px;
+    width: 32.5%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border: 1px solid green
+    
+
+}
